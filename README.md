@@ -1,5 +1,4 @@
 ### Hi there 👋
-![profile_circle](https://github.com/astrojerms/astrojerms/assets/15318563/5b93cf7a-fce8-4222-8f44-05420afba9d1)
 
 ## I'm a DevOps and Site Reliability Engineer with interests in distributed systems, blockchain technology, and cloud computing. I am currently working on my Master's in Computer Science.
 
