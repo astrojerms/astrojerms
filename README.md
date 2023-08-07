@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a DevOps and Site Reliability Engineer with interests in distributed systems, blockchain technology, and cloud computing. I am currently working on my Master's in Information and Cybersecurity at UC Berkeley.
+## I'm a DevOps and Site Reliability Engineer with interests in distributed systems, blockchain technology, and cloud computing. I am currently working on my Master's in Information and Cyber Security at UC Berkeley.
 
 <!--
 **astrojerms/astrojerms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
