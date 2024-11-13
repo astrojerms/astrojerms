@@ -1,7 +1,12 @@
-### Hi there 👋
+## Jeremy Harrington
+### Experienced in DevSecOps, Site Reliability Engineering, and Platform Engineering.
 
-## I'm a DevSecOps and Site Reliability Engineer with interests in distributed systems, blockchain technology, and cloud computing. I am currently working on my Master's in Information and Cyber Security at UC Berkeley.
-
+I enjoy:
+- Programming in Go, Python, and Ruby
+- Web application development
+- Software build processes (pipelines, reproducible builds, etc.)
+- Automation
+- Infrastructure automation
 <!--
 **astrojerms/astrojerms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
